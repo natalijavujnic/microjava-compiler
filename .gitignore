@@ -1,0 +1,17 @@
+# Compiled files
+bin/
+*.class
+
+# Logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# Eclipse local settings
+.settings/
